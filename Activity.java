@@ -8,7 +8,7 @@ public class Activity {
         System.out.println("Student Year: " + student.getYear());
         System.out.println(student.toString());
         
-        Staff staff = new Staff("Jaycee", "Pooc", "BSHS", 253000);
+        Staff staff = new Staff("Russel", "San Piro", "BSU", 253000);
         System.out.println("Staff Name: " + staff.getName());
         System.out.println("Staff Address: " + staff.getAddress());
         System.out.println("Staff School: " + staff.getSchool());
